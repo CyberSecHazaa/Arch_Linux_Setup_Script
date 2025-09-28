@@ -1,9 +1,9 @@
 # Summary
----
+
 If you're a Arch user, you may be well aware that playing around with Arch would most definitely break it, in some cases. That sort of goes for any distro but over the years of using different Linux distros, I found that with Arch it's not the easiest to rollback. In case of a Arch Linux breakage, I've created a "Setup" script that install all the software, tools and packages that I use so I can get back on my feet as soon as possible. 
 
 # Concept Goals 
----
+
 Making this script, I had simple goals in mind which includes:
 - This script needs to look readable 
 - This script needs to look understandable and somewhat simple
@@ -13,7 +13,7 @@ Making this script, I had simple goals in mind which includes:
 
 
 # **The Script & Annotations:**
-----
+
 **The ASCII Art:**
 
 <img width="318" height="593" alt="image" src="https://github.com/user-attachments/assets/0d96fae8-3672-4b9d-9d2f-f1b8e30abb9e" />
